@@ -1,5 +1,5 @@
 /*----------------------------------------------------------------
- *  Author:Trishala Mannadhar   
+ *  Editor:Trishala Mannadhar   
  *  Email:TMANAN21@g.holycross.edu
  *  Written:11/02/20  
  *  Edited: 11/05/20
