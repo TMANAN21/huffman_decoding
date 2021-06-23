@@ -4,5 +4,7 @@ Visually, the bucket-fill operation is very intuitive. If we pour red paint onto
 
 Collaborations: I was provided with most of the code through my school and I added the code for bucket-fill, respond to right clicks and fixed some bugs with the other mouse clicks as well. 
 
+Below is a link demonstrating how this project works:
+
 https://mathcs.holycross.edu/~csci131/assn/p4/example.gif
 
